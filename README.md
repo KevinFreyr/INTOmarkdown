@@ -32,6 +32,8 @@ https://github.com/KevinFreyr/Batman/blob/master/NIM.cpp
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 Google Chrome - Chromimum.org
+Codeblocks - http://www.codeblocks.org/license
+Acrobat Reader - http://www.adobe.com/legal/licenses-terms.html
 
 ## 5. Unnið með Git (2. hluti)
 
